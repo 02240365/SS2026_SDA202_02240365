@@ -126,5 +126,9 @@ A university with 300+ students per year currently has no plagiarism checker or 
 - OMG. (2017). *OMG Unified Modeling Language Specification Version 2.5.1*. Object Management Group. https://www.omg.org/spec/UML/2.5.1
 - Larman, C. (2004). *Applying UML and Patterns* (3rd ed.). Prentice Hall.
 
+---
+
+## AI Chat History Link
+- https://chatgpt.com/share/69cae73e-df1c-8324-8c82-eba65b7baa8e
 
 
